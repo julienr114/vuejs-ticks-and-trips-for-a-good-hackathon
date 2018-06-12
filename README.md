@@ -24,18 +24,18 @@ We will create a small app that organizes tickets for a developers team.
 
 ### Steps
 
--[] **1. Just use Vuejs from a cdn and discover his assential API**
+1. **Just use Vuejs from a cdn and discover his assential API**
 
 - Organize tickets
 - Manage tickets
 
--[] **2. Use vue with Axios for xhr**
--[] **3. Use single-file components with Vue-cli webpack template**
--[] **3. Create a new user page with vue-router**
--[] **4. Refactoring with vueX**
--[] **5. Use a a external vuejs component from vuejs community: Vue.sortable**
--[] **6. Refactoring with Nuxt.js**
--[] **7. Use a Vuejs components library: vuetifyjs**
+2. **Use vue with Axios for xhr**
+3. **Use single-file components with Vue-cli webpack template**
+3. **Create a new user page with vue-router**
+4. **Refactoring with vueX**
+5. **Use a a external vuejs component from vuejs community: Vue.sortable**
+6. **Refactoring with Nuxt.js**
+7. **Use a Vuejs components library: vuetifyjs**
 
 ## Getting started
 
