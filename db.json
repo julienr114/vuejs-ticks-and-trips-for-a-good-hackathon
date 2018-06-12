@@ -1,0 +1,103 @@
+{
+  "dreamTeam": {
+    "1": {
+      "name": "Julien" 
+    },
+    "2": {
+      "name": "Edouard" 
+    },
+    "3": {
+      "name": "Victor" 
+    },
+    "4": {
+      "name": "Martin" 
+    }
+  },
+
+  "column": ["todo", "doing", "review", "done"],
+
+  "tags": ["feature", "refactoring", "bug"],
+
+  "tickets": {
+    "1": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    },
+    "2": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    },
+    "3": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    },
+    "4": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    },
+    "5": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    },
+    "6": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    },
+    "7": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    },
+    "8": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    },
+    "9": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    },
+    "10": {
+      "content": "",
+      "assigns": [],
+      "column": "",
+      "tags": [],
+      "created_at": "",
+      "updated_at": ""
+    }
+  }
+}
