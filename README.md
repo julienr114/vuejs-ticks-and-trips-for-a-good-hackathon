@@ -28,8 +28,8 @@ We will create a small app that organizes tickets for a developers team.
 - Organize tickets
 - Manage tickets (Filter, Sort, Create, Delete)
 
-2. **Use vue with Axios for xhr (and json-server for api)**
-3. **Use single-file components with Vue-cli webpack template**
+2. **Use single-file components with Vue-cli webpack template**
+3. **Use vue with Axios for xhr (and json-server for api)**
 4. **Refactoring with vueX**
 5. **Use a a external vuejs component from vuejs community: Vue.sortable**
 
