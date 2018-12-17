@@ -1,4 +1,4 @@
-var db = {
+export default {
   dreamTeam: {
     1: { name: 'Jerôme' },
     2: { name: 'Mathieu' },
@@ -10,7 +10,7 @@ var db = {
     1: { title: 'todo', order: 1 },
     2: { title: 'done', order: 4 },
     3: { title: 'review', order: 3 },
-    4: { title: 'doing', order: 2 },
+    4: { title: 'doing', order: 2 }
   },
 
   tags: {
@@ -61,7 +61,7 @@ var db = {
       content: 'It doesn\'t matter who we are. What matters is our plan.',
       assigns: [2],
       column: 2,
-      tags: [1,4],
+      tags: [1, 4],
       created_at: '2018-06-12T10:01:27.369Z',
       updated_at: '2018-06-12T10:01:27.369Z'
     },
